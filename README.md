@@ -6,7 +6,8 @@ Allows reading of the 10 most recent lines of output by mapping them directly to
 
 ## Installation
 
-incomplete
+Run the following command in Mudlet:
+`lua uninstallPackage("QuickOutput");installPackage("https://github.com/ironcross32/QuickOutput-for-Mudlet/releases/latest/download/QuickOutput.mpackage")`
 
 ## Usage
 
