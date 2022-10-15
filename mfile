@@ -1,0 +1,7 @@
+{
+  "package": "QuickOutput",
+  "version": "1.0.0",
+  "author": "bscross32",
+  "title": "Quick retrieval of recent output history for screen reader users.",
+  "outputFile": true
+}
