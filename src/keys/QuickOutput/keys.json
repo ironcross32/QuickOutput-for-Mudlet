@@ -1,0 +1,12 @@
+[
+  {"name": "quick output line 1", "keys": "ctrl+1"},
+  {"name": "quick output line 2", "keys": "ctrl+2"},
+  {"name": "quick output line 3", "keys": "ctrl+3"},
+  {"name": "quick output line 4", "keys": "ctrl+4"},
+  {"name": "quick output line 5", "keys": "ctrl+5"},
+  {"name": "quick output line 6", "keys": "ctrl+6"},
+  {"name": "quick output line 7", "keys": "ctrl+7"},
+  {"name": "quick output line 8", "keys": "ctrl+8"},
+  {"name": "quick output line 9", "keys": "ctrl+9"},
+  {"name": "quick output line 10", "keys": "ctrl+0"}
+]

@@ -1,8 +1,4 @@
 [
-  {
-    "name": "code",
-    "eventHandlerList": [
-      "sysInstall"
-    ]
-  }
+  {"name": "quick_output core"},
+  {"name": "quick_output.onUninstall", "eventHandlerList": ["sysUninstall"]}
 ]
